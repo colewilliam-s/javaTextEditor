@@ -9,7 +9,7 @@ public class Main
     public static void main(String [] args)
     {
         // creates the actual window, and also sets the title of the application to test
-        JFrame window = new JFrame("test");
+        JFrame window = new JFrame("Midnight - Text Editor");
         // sets the window size
         window.setSize(800, 600);
 
